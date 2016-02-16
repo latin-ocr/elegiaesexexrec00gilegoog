@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./elegiaesexexrec00gilegoog_0003.png"; bbox 0 0 1044 1465; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 246 131 358 159">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 246 131 358 159">
+     <span class='ocr_line' id='line_1_1' title="bbox 246 131 358 159; baseline -0.009 -3"><span class='ocrx_word' id='word_1_1' title='bbox 246 131 291 159; x_wconf 57' lang='lat' dir='ltr'>&gt;mn</span> <span class='ocrx_word' id='word_1_2' title='bbox 304 137 358 156; x_wconf 48' lang='lat' dir='ltr'>aas</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 425 788 683 929">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 425 788 683 929">
+     <span class='ocr_line' id='line_1_2' title="bbox 425 788 683 821; baseline 0.008 -2"><span class='ocrx_word' id='word_1_3' title='bbox 425 788 683 821; x_wconf 88' lang='lat' dir='ltr'>HARVARD</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 425 842 683 875; baseline 0.004 -1"><span class='ocrx_word' id='word_1_4' title='bbox 425 842 683 875; x_wconf 92' lang='lat' dir='ltr'><strong>COLLEGE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 426 897 682 929; baseline 0.004 -1"><span class='ocrx_word' id='word_1_5' title='bbox 426 897 682 929; x_wconf 90' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 482 1228 720 1356">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 482 1228 720 1356">
+     <span class='ocr_line' id='line_1_5' title="bbox 482 1228 720 1356; baseline 0 109"><span class='ocrx_word' id='word_1_6' title='bbox 482 1228 720 1356; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
